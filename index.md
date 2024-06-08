@@ -1,3 +1,9 @@
+
+---
+title: Home
+layout: home
+---
+
 ``` diff
  {
    heroAreaPanel: [
