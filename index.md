@@ -14,6 +14,22 @@ More specifically, the created site:
 
 Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
 
+```diff
+{
+   heroAreaPanel: [
+     {
+       properties: {
+-        preamble: "Det finns idag möjlighet för dig mitt i karriären att studera med ett utökat studiestöd. Målet är att du ska hålla dig relevant, intressant och uppdaterad på arbetsmarknaden. Som tjänsteman ansluten till TRR kan du även få stöd utöver CSNs omställningsstudiestöd. "
++        preamble: "Det finns idag möjlighet för dig mitt i karriären att studera med ett utökat studiestöd. Målet är att du ska hålla dig relevant, intressant och uppdaterad på arbetsmarknaden. Som tjänsteman ansluten till TRR kan du även få stöd utöver CSNs omställningsstudiestöd."
+-        name: "Kom igång med studier(4)"
++        name: "Kom igång med studier"
+       }
+-      name: "Kom igång med studier(4)"
++      name: "Kom igång med studier"
+     }
+   ]
+```
+
 [Browse our documentation][Just the Docs] to learn more about how to use this theme.
 
 To get started with creating a site, simply:
